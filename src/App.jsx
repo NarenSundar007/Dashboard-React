@@ -31,6 +31,8 @@ function App() {
           <div className="Container-card" ><CardTile />
           <CardTile />
           <CardTile /></div>
+          <Spacer/>
+          <Spacer/>
           <div id="about"></div>
           <Spacer/>
           <Spacer/>
